@@ -1,7 +1,7 @@
 #  ===============================
 #  AUTHOR     :Ziming Fang 
 #  CREATE DATE     :3/11/21 
-#  PURPOSE     :read a gif video  
+#  PURPOSE     :save the keypoints and descriptors of a gif video 
 #  SPECIAL NOTES: file edit based on 
 #                   https://www.youtube.com/watch?v=nO3csmVyoOQ
 #                   https://www.youtube.com/watch?v=oXlwWbU8l2o 
